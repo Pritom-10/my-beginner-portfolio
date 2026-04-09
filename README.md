@@ -6,7 +6,7 @@ A modern and fully responsive portfolio website built to showcase my projects, s
 ---
 
 ## 🌐 Live Demo
-🔗 https://your-portfolio-link.com
+🔗 https://pritom-personal-portfolio.netlify.app/
 
 ---
 
@@ -109,7 +109,7 @@ A modern and fully responsive portfolio website built to showcase my projects, s
 
 **1. Clone the repository:**
 
-git clone https://github.com/Pritom-10/your-portfolio-repo.git
+git clone https://github.com/Pritom-10/my-beginner-portfolio.git
 
 **2. Navigate to the project folder:**
 
@@ -141,9 +141,10 @@ Add contact section screenshot here
 
 # **🔗 Relevant Links**
 
-**🌐 Live Site:** https://your-portfolio-link.com
+**🌐 Live Site:** https://pritom-personal-portfolio.netlify.app/
 
 **📧 Contact:** pritomshiro@gmail.com
+
 # **🙌 Author**
 
-Pritom Barua Shiro
+**Pritom Barua Shiro**
